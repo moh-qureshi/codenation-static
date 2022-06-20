@@ -1,0 +1,23 @@
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+}
+
+ul{
+  display: flex;  
+  justify-content: space-between;
+  width: 400px;
+  list-style: none;
+}
+
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    padding: 17px;
+}
+
+a:hover{
+    background-color: silver;
+}
